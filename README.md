@@ -77,3 +77,4 @@ Output de la consola:
     <b> <H1> Anexo </H1> </b>
 
 <a href="https://github.com/96josetole/MCOC-Proyecto-0"></a>
+<a href="https://en.wikiversity.org/wiki/Numerical_Analysis/Loss_of_Significance" target="_blank">https://en.wikiversity.org/wiki/Numerical_Analysis/Loss_of_Significance</a>
