@@ -17,11 +17,14 @@ Para poder calcular el error relativo, se analizan los siguientes casos:
     
 <b> <H1> Cálculos </H1> </b>
 Definiendo el error como:
-    error = (Calculo_obtenido - Resultado_real) / Resultado_real
+                            
+                            error = (Calculo_obtenido - Resultado_real) / Resultado_real
    
 En el siguiente gráfico se puede apreciar la perdida de significancia, y como esta aumenta según la cantidad de datos analizados y el tipo de datos que sean estos, ya sea con 32bits o 64bits.
 
-   ![alt text](https://github.com/Felipemizon/MOC/blob/master/Grafico%20Definitivo.png)
+<center>
+![alt text](https://github.com/Felipemizon/MOC/blob/master/Grafico%20Definitivo.png)
+</center>
 
 Output de la consola:
 
