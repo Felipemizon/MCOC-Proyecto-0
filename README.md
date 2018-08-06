@@ -10,10 +10,10 @@ En este proyecto se analiza la función coseno cos(x) y como esta varía su valo
 
 Para poder calcular el error relativo, se analizan los siguientes casos:
 <UL>
-    1. Se define el arreglo "a" con datos tipo dtype.float32 y se calcula el promedio mediante np.mean para luego calcular el coseno mediante una función creada manualmente.
-    2.Se define el arreglo "a" con datos tipo dtype.float32 y se calcula el promedio mediante np.mean para luego calcular el coseno mediante la función cos(x).
-    3. Se define el arreglo "a" con datos tipo dtype.float64 y se calcula el promedio mediante np.mean para luego calcular el coseno mediante una función creada manualmente.
-    </UL>
+    <LI>1. Se define el arreglo "a" con datos tipo dtype.float32 y se calcula el promedio mediante np.mean para luego calcular el coseno mediante una función creada manualmente.
+    <LI>2.Se define el arreglo "a" con datos tipo dtype.float32 y se calcula el promedio mediante np.mean para luego calcular el coseno mediante la función cos(x).
+    <LI>3. Se define el arreglo "a" con datos tipo dtype.float64 y se calcula el promedio mediante np.mean para luego calcular el coseno mediante una función creada manualmente.
+</UL>
     
 <b> <H1> Cálculos </H1> </b>
 Definiendo el error como:
