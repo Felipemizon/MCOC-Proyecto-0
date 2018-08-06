@@ -21,6 +21,7 @@ Definiendo el error como:
    
 En el siguiente gráfico se puede apreciar la perdida de significancia, y como esta aumenta según la cantidad de datos analizados y el tipo de datos que sean estos, ya sea con 32bits o 64bits.
 
+
 Output de la consola:
 
     N = 65536
