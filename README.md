@@ -8,7 +8,7 @@ La pérdida de significancia es un error que ocurre en los cálculos que se util
 
 En este proyecto se analiza la función coseno cos(x) y como esta varía su valor debido a la perdida de significancia por la gran cantidad de datos analizados en una lista y como este error es aun mayor cuando se trabaja en dtype=np.float32 en comparación cuando se utiliza dtype=np.float64.
 
-<b> <H1> Calculos </H1> </b>
+<b> <H1> Cálculos </H1> </b>
 Definiendo el error como:
     error = (Calculo_obtenido - Resultado_real) / Resultado_real
 Output de la consola:
