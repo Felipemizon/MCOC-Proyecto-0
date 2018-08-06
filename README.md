@@ -22,9 +22,7 @@ Definiendo el error como:
    
 En el siguiente gráfico se puede apreciar la perdida de significancia, y como esta aumenta según la cantidad de datos analizados y el tipo de datos que sean estos, ya sea con 32bits o 64bits.
 
-<center>
 ![alt text](https://github.com/Felipemizon/MOC/blob/master/Grafico%20Definitivo.png)
-</center>
 
 Output de la consola:
 
@@ -75,3 +73,6 @@ Output de la consola:
     -0.0759523               1.74304741249e-06
     -0.0759521444813         1.99903754282e-07
     -0.0759521292982         0.0
+    
+    <b> <H1> Anexo </H1> </b>
+    https://github.com/96josetole/MCOC-Proyecto-0
