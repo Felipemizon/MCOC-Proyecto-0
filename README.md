@@ -75,4 +75,4 @@ Output de la consola:
     -0.0759521292982         0.0
     
     <b> <H1> Anexo </H1> </b>
-    <a href="https://github.com/96josetole/MCOC-Proyecto-0"> </a>
+<a href="https://github.com/96josetole/MCOC-Proyecto-0">
