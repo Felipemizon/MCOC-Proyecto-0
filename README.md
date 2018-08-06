@@ -74,7 +74,7 @@ Output de la consola:
     -0.0759521444813         1.99903754282e-07
     -0.0759521292982         0.0
     
-    <b> <H1> Anexo </H1> </b>
+<b> <H1> Anexo </H1> </b>
 
 <a href="https://github.com/96josetole/MCOC-Proyecto-0"></a>
 <a href="https://en.wikiversity.org/wiki/Numerical_Analysis/Loss_of_Significance" target="_blank">https://en.wikiversity.org/wiki/Numerical_Analysis/Loss_of_Significance</a>
